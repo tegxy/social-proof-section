@@ -37,7 +37,7 @@ Some of the CSS properties learnt were:
 
 ## Author
 
-- Website - Tega Lucky-Fiakpa (https://heisenberg-3-columns.netlify.app/)
+- Website - Tega Lucky-Fiakpa (https://heisenberg-social-proof.netlify.app/)
 - Frontend Mentor - @tegxy(https://www.frontendmentor.io/profile/tegxy)
 - Twitter - @tegxy(https://www.twitter.com/tegxy)
 
